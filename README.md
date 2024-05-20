@@ -10,19 +10,19 @@
 ---
 ### Languages and Tools:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg?short_path=5bdb1d3" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-original.svg" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50"/>
+  <img alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg?short_path=5bdb1d3" width="50" height="50"/>&nbsp;
+  <img alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img alt="Sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50"/>&nbsp;
+  <img alt="Webpack" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="50" height="50"/>&nbsp;
+  <img alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;
+  <img alt="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50"/>&nbsp;
+  <img alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img alt="Mobx" src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-original.svg" width="50" height="50"/>&nbsp;
+  <img alt="Redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50"/>&nbsp;
+  <img alt="ReactRouter src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg" width="60" height="60"/>&nbsp;
+  <img alt="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50"/>&nbsp;
+  <img alt="XCode" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="50" height="50"/>
+  <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50"/>
 </div>
 
 ---
