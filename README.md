@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 My name is Alena. I am currently looking for a job as a Frontend Developer.
+
 ---
 ### How to reach me:
 <div>
