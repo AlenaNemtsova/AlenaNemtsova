@@ -31,3 +31,8 @@ My name is Alena. I am currently looking for a job as a Frontend Developer.
 ---
 ### My projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlenaNemtsova&repo=flashcards)](https://github.com/AlenaNemtsova/flashcards)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlenaNemtsova&repo=rn-albums-project)](https://github.com/AlenaNemtsova/rn-albums-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlenaNemtsova&repo=test-js-modules)](https://github.com/AlenaNemtsova/test-js-modules)
+
+---
+### Team projects:
