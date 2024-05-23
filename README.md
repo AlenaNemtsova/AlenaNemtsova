@@ -36,4 +36,6 @@ My name is Alena. I am currently looking for a job as a Frontend Developer.
 
 ---
 ### Team projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=International-management-team&repo=team-platform2)](https://github.com/International-management-team/team-platform2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otgadaymelody&repo=otgadaymelody-web)](https://github.com/otgadaymelody/otgadaymelody-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlenaNemtsova&repo=beauty_nails)](https://github.com/AlenaNemtsova/beauty_nails)
