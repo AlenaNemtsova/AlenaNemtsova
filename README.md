@@ -1,6 +1,7 @@
-### Hi there 👋
+### Frontend Developer | React • TypeScript
 
-My name is Alena. I am currently looking for a job as a Frontend Developer.
+Building scalable and user-oriented interfaces using React.js.
+Focus on component-driven development and pixel-perfect UIs.
 
 ---
 ### How to reach me:
